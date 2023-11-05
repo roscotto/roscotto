@@ -4,9 +4,11 @@
 <div>
  <h3 align="center">Web Developer from Argentina</h3>
 </div>
+<div>
 Web Design and Development student at [@Escuela Da Vinci](https://davinci.edu.ar) <br>
 Freelance Web Developer. <br>
-Bs. As., Argentina
+Bs. As., Argentina <br>
+</div>div>
 
 <p align="center">
 <a href="https://github.com/roscotto">
@@ -22,7 +24,7 @@ Bs. As., Argentina
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/express-109.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
@@ -38,11 +40,14 @@ Bs. As., Argentina
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 
-## Software de Diseño & Maquetado
+## Design Software & Maquetado
 <code><img height="40" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/premiere-pro-cc.svg"></code>
+
 
 ## Idioms
 - Español
