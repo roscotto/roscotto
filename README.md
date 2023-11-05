@@ -5,7 +5,7 @@
  <h3 align="center">Web Developer from Argentina</h3>
 </div>
 <div>
-Web Design and Development student at [@Escuela Da Vinci](https://davinci.edu.ar) <br>
+💻 Web Design and Development student in [@Escuela Da Vinci](https://davinci.edu.ar) <br>
 Freelance Web Developer. <br>
 Bs. As., Argentina <br>
  <br/>
@@ -56,12 +56,3 @@ Bs. As., Argentina <br>
 ## Contact with me
 - rocio.scotto@davinci.edu.ar
 <a href="https://www.linkedin.com/in/rocio-scotto-97376a206/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-
-
-
-👨‍💻 Systems Analyst in [@novocap](https://github.com/novocap) <br>
-👨‍🎓 Web Design and Development student in [@Escuela Da Vinci](https://davinci.edu.ar) <br>
-👨‍💻 Systems Analyst at [@novocap](https://github.com/novocap) <br>
-👨‍🎓 Web Design and Development student at [@Escuela Da Vinci](https://davinci.edu.ar) <br>
-📍 Currently located in Buenos Aires, Argentina <br>
-
