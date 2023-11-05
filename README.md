@@ -59,3 +59,9 @@ Bs. As., Argentina <br>
 
 
 
+👨‍💻 Systems Analyst in [@novocap](https://github.com/novocap) <br>
+👨‍🎓 Web Design and Development student in [@Escuela Da Vinci](https://davinci.edu.ar) <br>
+👨‍💻 Systems Analyst at [@novocap](https://github.com/novocap) <br>
+👨‍🎓 Web Design and Development student at [@Escuela Da Vinci](https://davinci.edu.ar) <br>
+📍 Currently located in Buenos Aires, Argentina <br>
+
