@@ -5,7 +5,7 @@
  <h3 align="center">Web Developer from Argentina</h3>
 </div>
 <div>
-💻 Web Design and Development student in [@Escuela Da Vinci](https://davinci.edu.ar) <br>
+💻 Web Design and Development student in Escuela Da Vinci => https://davinci.edu.ar <br>
 Freelance Web Developer. <br>
 Bs. As., Argentina <br>
  <br/>
