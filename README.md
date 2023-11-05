@@ -54,5 +54,6 @@ Bs. As., Argentina <br>
 - Inglés
 
 ## Contact with me
+
 - rocio.scotto@davinci.edu.ar
-<a href="https://www.linkedin.com/in/rocio-scotto-97376a206/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+- <a href="https://www.linkedin.com/in/rocio-scotto-97376a206/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
