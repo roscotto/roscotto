@@ -8,7 +8,8 @@
 Web Design and Development student at [@Escuela Da Vinci](https://davinci.edu.ar) <br>
 Freelance Web Developer. <br>
 Bs. As., Argentina <br>
-</div>div>
+ <br/>
+</div>
 
 <p align="center">
 <a href="https://github.com/roscotto">
