@@ -5,7 +5,7 @@
  <h3 align="center">Web Developer from Argentina</h3>
 </div>
 <div>
-💻 Web Design and Development student in Escuela Da Vinci => https://davinci.edu.ar <br>
+💻 Web Design and Development student in [Escuela Da Vinci](https://davinci.edu.ar/).
 Freelance Web Developer. <br>
 Bs. As., Argentina <br>
  <br/>
@@ -36,8 +36,8 @@ Bs. As., Argentina <br>
 ## Frameworks, Libraries & Tools
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"></code> -->
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code> -->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 
